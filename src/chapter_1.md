@@ -15,7 +15,7 @@ No. At the time of this writing, there is no dedicated "F3A Club" as such. To fi
 Your RC plane must have enough power to fly a vertical line perpendicular to the horizon.
 
 - NSRCA website recommends a foam plane from FMS [F3A Olympus 1400mm](https://www.horizonhobby.com/product/f3a-olympus-pnp-1400mm/FMM067P2.html)
-- Many people already have powerful foamy from E-Fite [Timber X 1.2m](https://www.horizonhobby.com/product/timber-x-1.2m-pnp/EFL3875.html)
+- Many people already have powerful foamy from E-Flite [Timber X 1.2m](https://www.horizonhobby.com/product/timber-x-1.2m-pnp/EFL3875.html)
 - There are good profile ARFs from Twisted Hobbies [42-48" Airfoil Series](https://twistedhobbys.com/airplanes/3d-monoplanes/42-48-airfoild-series/) with [Power Combo 42-48" SKU: PC17](https://twistedhobbys.com/power-combo-42-48-mono-models/)
 
 With one of the above planes or any other that you have, practice flying the figure **Cuban 8** as follows:
