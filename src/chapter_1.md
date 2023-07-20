@@ -9,18 +9,6 @@ F3A, also known as "RC pattern aerobatics" in the USA, is flown by the NSRCA (Na
 **Is there an official "F3A Club"?**  
 No. At the time of this writing, there is no dedicated "F3A Club" as such. To find specific F3A events organized by NSRCA in the USA, visit the NSRCA website and check their [events calendar](https://nsrca.us/index.php/eventsnewmenu/list-events). Additionally, you can reach out to local aeromodeling clubs in your area that partner with NSRCA to inquire about upcoming F3A events. Please note that event schedules and locations can change, so it's best to regularly check the NSRCA website or get in touch with local clubs for the most up-to-date information on F3A events in the USA.
 
-## Section 1
+## Section 1: Fly a sequence (pattern) with a simple foam plane
 
-## Section 2
-
-# Chapter 2
-
-## Section 1
-
-## Section 2
-
-# Chapter 3
-
-## Section 1
-
-## Section 2
+## Section 2: Share your hobby with a robust free static website
