@@ -11,7 +11,6 @@
         <base href="{{ base_url }}">
         {{/if}}
 
-
         <!-- Custom HTML head -->
         {{> head}}
 
@@ -54,16 +53,14 @@
         <script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         {{/if}}
 
-        {% if secrets.GOOGLE_TAG %} 
         <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id={{ secrets.GOOGLE_TAG }}"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EJ23EEWS4V"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', '{{ secrets.GOOGLE_TAG }}');
+          gtag('config', 'G-EJ23EEWS4V');
         </script>
-        {% endif %}
     </head>
     <body>
         <!-- Provide site root to javascript -->
