@@ -9,6 +9,7 @@ F3A, also known as "RC pattern aerobatics" in the USA, is flown by the NSRCA (Na
 **Is there an official "F3A Club"?**  
 No. At the time of this writing, there is no dedicated "F3A Club" as such. To find specific F3A events organized by NSRCA in the USA, visit the NSRCA website and check their [events calendar](https://nsrca.us/index.php/eventsnewmenu/list-events). Additionally, you can reach out to local aeromodeling clubs in your area that partner with NSRCA to inquire about upcoming F3A events. Please note that event schedules and locations can change, so it's best to regularly check the NSRCA website or get in touch with local clubs for the most up-to-date information on F3A events.
 
+
 ## Section 1: Get a simple foam plane with a good power system 
 
 Your RC plane must have enough power to fly a vertical line perpendicular to the horizon.
@@ -23,6 +24,6 @@ With one of the above planes or any other that you have, practice flying the fig
 
 It does not have to be perfect. If you enjoyed the exercise, you are ready to take a stab at a complete sequence in the next section and make it perfect.
 
+
 ## Section 2: Fly a sequence (pattern) with a simple foam plane
 
-## Section 3: Share your hobby with a robust free static website
