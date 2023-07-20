@@ -10,7 +10,7 @@ F3A, also known as "RC pattern aerobatics" in the USA, is flown by the NSRCA (Na
 No. At the time of this writing, there is no dedicated "F3A Club" as such. To find specific F3A events organized by NSRCA in the USA, visit the NSRCA website and check their [events calendar](https://nsrca.us/index.php/eventsnewmenu/list-events). Additionally, you can reach out to local aeromodeling clubs in your area that partner with NSRCA to inquire about upcoming F3A events. Please note that event schedules and locations can change, so it's best to regularly check the NSRCA website or get in touch with local clubs for the most up-to-date information on F3A events.
 
 
-## Section 1: Get a simple foam plane with a good power system 
+## Section 1.0.1: Get a simple foam plane with a good power system 
 
 Your RC plane must have enough power to fly a vertical line perpendicular to the horizon.
 
@@ -25,5 +25,15 @@ With one of the above planes or any other that you have, practice flying the fig
 It does not have to be perfect. If you enjoyed the exercise, you are ready to take a stab at a complete sequence in the next section and make it perfect.
 
 
-## Section 2: Fly a sequence (pattern) with a simple foam plane
+## Section 1.0.2: Fly a sequence (pattern) with a simple foam plane
 
+
+## Section 1.0.3: Get a real 2 meter long F3A model plane
+
+- [AJ Aircraft 2m Acuity](https://www.aj-aircraft.com/2m-acuity.html)
+- [Extreme Flight 2m Vanquish](https://extremeflightrc.com/2M-Vanquish-RedWhiteYellow_p_7664.html)
+- [F3A Unlimited imported Pattern Planes](https://www.f3aunlimited.com/airplanes/f3a-aircraft)
+- [Insight RC balsa DIY](http://www.insightrc.com/insightrc-f3a-aircraft.html)
+- [Open Source F3A Biplane](https://www.facebook.com/groups/660663817886159/)
+
+Suggest a link to another 2 meter long F3A model

@@ -10,7 +10,7 @@ pagetoc = true
 sidebar-width = "250px"
 
 [output.html]
-default-theme = "light"
+default-theme = "ayu"
 git-repository-url = "https://github.com/considerable/f3a-pattern-aerobatics-rc.club/"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
