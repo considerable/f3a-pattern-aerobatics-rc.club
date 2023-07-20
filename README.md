@@ -9,5 +9,7 @@ and everything is ready to go.
 But for the first time after pushing to github, set the source of github page to 
 `gh-pages` branch and `/(root)` in `Settings`.
 
+How to: [katopz.medium.com](https://katopz.medium.com/how-to-build-mdbook-with-github-actions-eb9899e55d7e)
+
 Have fun with mdbook!
 

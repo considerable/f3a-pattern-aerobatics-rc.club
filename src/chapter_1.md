@@ -1,4 +1,6 @@
-# F3A Pattern Aerobatics RC Club
+# Chapter 1
+
+F3A Pattern Aerobatics RC Club
 
 ## Section 1
 
