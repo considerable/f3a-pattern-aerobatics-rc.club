@@ -40,7 +40,7 @@ To find the simplified (AMA) and official (F3A) flying sequences, pilots can fol
 Keep in mind that the NSRCA website may undergo updates and changes, so it's essential to regularly check for the most current information on events and flying sequences. Additionally, if you have any questions or need assistance, you can reach out to event organizers or fellow aerobatic enthusiasts in your local aeromodelling community or club affiliated with NSRCA. They can provide guidance, advice, and support as you embark on your journey as an F3A aerobatics pilot.
 
 
-## 1.0.3 Get a real 2 meter long F3A model plane
+## 1.0.3 Get a real 2-meter long F3A model plane
 
 To buy it new or to get a DIY design, you can check these resources:
 
@@ -51,30 +51,28 @@ To buy it new or to get a DIY design, you can check these resources:
 - [Open Source F3A Biplane](https://www.facebook.com/groups/660663817886159/)
 - Suggest a link to another 2 meter F3A model
 
-If it is going to be your very first 2 meter long F3A model, buying a second-hand plane might be a very good option.
+If you're considering your first 2-meter long F3A model, buying a second-hand plane can be an excellent option. Follow these steps to make a safe purchase:
 
-To buy it used, you can follow these steps:
+1. **Research and Decide**: Familiarize yourself with F3A model planes and their specifications. Decide on the specific features you want.
 
-1. **Research and Decide:** First, familiarize yourself with F3A model planes and their specifications. Understand the different models available and decide on the specific features you want in the plane.
+2. **Online Marketplaces**: Check eBay, Craigslist, RC forums, or specialized RC trading websites for used F3A model planes.
 
-2. **Online Marketplaces:** Check online marketplaces like eBay, Craigslist, RC forums, or specialized RC trading websites for used F3A model planes. These platforms often have listings for second-hand planes.
+3. **Local RC Clubs**: Visit local RC flying clubs or model aircraft events to find potential sellers.
 
-3. **Local RC Clubs:** Visit local RC flying clubs or model aircraft events. Many RC enthusiasts participate in these gatherings, and you might find someone looking to sell their F3A model plane.
+4. **RC Classifieds**: Look for RC classified ads in hobby magazines or websites catering to RC enthusiasts.
 
-4. **RC Classifieds:** Look for RC classified ads in RC hobby magazines or websites. Some websites cater specifically to RC enthusiasts and have dedicated classified sections.
+5. **Social Media Groups**: Join RC-related social media groups or forums where members might post items for sale.
 
-5. **Social Media Groups:** Join RC-related social media groups or forums where members might post items for sale. Facebook groups or Reddit communities related to RC flying can be valuable sources.
+6. **Contact Sellers**: Reach out to sellers of used F3A model planes, inquire about the plane's condition, history, and request pictures.
 
-6. **Contact Sellers:** Once you find a used F3A model plane that interests you, get in touch with the seller. Inquire about the condition of the plane, its history, any modifications or repairs, and request pictures if possible.
+7. **Inspect and Verify**: If buying locally, meet the seller to inspect the plane for any damages or wear.
 
-7. **Inspect and Verify:** If you are buying locally, arrange to meet the seller and inspect the model plane in person. Check for any damages or wear and ensure it meets your requirements.
+8. **Negotiate and Finalize**: Negotiate the price based on the plane's condition and finalize the deal if both parties agree.
 
-8. **Negotiate and Finalize:** Negotiate the price with the seller based on the condition of the plane and its accessories. If you agree on the price, finalize the deal and arrange the payment method.
+9. **Shipping or Pickup**: For non-local purchases, discuss safe shipping options with the seller.
 
-9. **Shipping or Pickup:** If the plane is not local, discuss shipping options with the seller. Ensure safe packaging and appropriate shipping methods to avoid any damage during transit.
+10. **Be Cautious**: Exercise caution when buying used RC model planes and trust the seller. Ask for references or feedback if possible.
 
-10. **Be Cautious:** When buying a used RC model plane, exercise caution, and make sure to trust the seller. If possible, ask for references or feedback from previous buyers to validate the seller's credibility.
-
-Remember, F3A model planes can be quite valuable, so take your time to find the right one that suits your needs and budget. Inspect the plane thoroughly, ask questions, and ensure a smooth transaction before making the purchase.
+Remember, F3A model planes can be valuable, so take your time to find the right one that fits your needs and budget. Inspect thoroughly, ask questions, and ensure a smooth transaction before making the purchase. 
 
 Happy flying!
