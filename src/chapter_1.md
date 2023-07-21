@@ -76,3 +76,8 @@ If you're considering your first 2-meter long F3A model, buying a second-hand pl
 Remember, F3A model planes can be valuable, so take your time to find the right one that fits your needs and budget. Inspect thoroughly, ask questions, and ensure a smooth transaction before making the purchase. 
 
 Happy flying!
+
+## 1.0.4 F3A book authors on Amazon
+
+- [David Scott](https://www.amazon.com/stores/David-Scott/author/B004UO1QJG)
+- [Peter J Jenkins](https://www.amazon.com/stores/Peter-J-Jenkins/author/B0916KQ62Y)
