@@ -2,7 +2,7 @@
 
 A simple website to let the world know about your club
 
-## Section 2.0.1: Static website design
+## 2.0.1 Static website design
 
 A minimum viable F3A Pattern Aerobatics RC club website should have the following sections:
 
@@ -45,7 +45,7 @@ A minimum viable F3A Pattern Aerobatics RC club website should have the followin
 Please note that this is just a basic sample, and a fully functional website would require additional design, content, and functionality. The design can be enhanced with appealing graphics, responsive layout for mobile devices, and interactive features to engage visitors.
 
 
-## Section 2.0.2: GitHub Pages for webhosting
+## 2.0.2 GitHub Pages for webhosting
 
 There are may optiong for webhosting. Hosting your static website on GitHub Pages offers several advantages:
 
