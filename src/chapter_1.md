@@ -25,7 +25,19 @@ With one of the above planes or any other that you have, practice flying the fig
 It does not have to be perfect. If you enjoyed the exercise, you are ready to take a stab at a complete sequence in the next section and make it perfect.
 
 
-## 1.0.2 Fly a sequence (pattern) with a simple foam plane
+## 1.0.2 Fly a sequence with a simple foam plane
+
+To gain practice and confidence, start flying your sequence (pattern) with a simple foam plane. Once you have mastered the maneuvers using the foam plane, it is safer to transition to a 2-meter F3A competition plane for more advanced flying.
+
+CIAM is the FAI Aeromodelling Commission that oversees aeromodelling activities worldwide. Aspiring F3A pilots should visit [CIAM's official web page](https://www.fai.org/page/f3-aerobatics-training-material-judges) or contact their country's organizations affiliated with CIAM to access training material.
+
+To find the simplified (AMA) and official (F3A) flying sequences, pilots can follow these steps on the NSRCA website:
+
+1. Study the Sportsman sequence in [PowerPoint Presentations](https://nsrca.us/index.php/flying/sequences/powerpoints)
+2. Print the [Sportsman Call sheet](https://nsrca.us/index.php/flying/sequences/call-sheets-and-aresti/sportsman-call-sheet) for reference
+3. Watch videos posted on the NSRCA website
+
+Keep in mind that the NSRCA website may undergo updates and changes, so it's essential to regularly check for the most current information on events and flying sequences. Additionally, if you have any questions or need assistance, you can reach out to event organizers or fellow aerobatic enthusiasts in your local aeromodelling community or club affiliated with NSRCA. They can provide guidance, advice, and support as you embark on your journey as an F3A aerobatics pilot.
 
 
 ## 1.0.3 Get a real 2 meter long F3A model plane
@@ -39,7 +51,7 @@ To buy it new or to get a DIY design, you can check these resources:
 - [Open Source F3A Biplane](https://www.facebook.com/groups/660663817886159/)
 - Suggest a link to another 2 meter F3A model
 
-If it is going to be your very first real 2 meter long F3A model, buying a second-hand plane might be a very good option.
+If it is going to be your very first 2 meter long F3A model, buying a second-hand plane might be a very good option.
 
 To buy it used, you can follow these steps:
 
