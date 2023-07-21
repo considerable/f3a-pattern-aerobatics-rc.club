@@ -45,7 +45,38 @@ A minimum viable F3A Pattern Aerobatics RC club website should have the followin
 Please note that this is just a basic sample, and a fully functional website would require additional design, content, and functionality. The design can be enhanced with appealing graphics, responsive layout for mobile devices, and interactive features to engage visitors.
 
 
-## 2.0.2 GitHub Pages for webhosting
+## 2.0.2 Jekyll project structure
+
+To generate a static website using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) for the F3A Pattern Aerobatics RC Club, you'll need to create a Jekyll project and organize your content accordingly. Below is an example folder structure to implement the above design:
+
+```vbnet
+f3a-pattern-aerobatics-rc-club/
+├── _config.yml
+├── _data
+│   ├── events.yml
+│   └── members.yml
+├── _layouts
+│   ├── default.html
+│   └── home.html
+├── _posts
+│   ├── 2023-07-01-welcome-to-f3a.md
+│   └── 2023-07-05-upcoming-event.md
+├── _sass
+│   └── style.scss
+├── css
+│   └── main.css
+├── images
+│   └── logo.png
+├── index.html
+├── about.html
+├── events.html
+├── rules.html
+├── resources.html
+├── membership.html
+└── contact.html
+```
+
+## 2.0.3 GitHub Pages hosting
 
 There are may optiong for webhosting. Hosting your static website on GitHub Pages offers several advantages:
 
