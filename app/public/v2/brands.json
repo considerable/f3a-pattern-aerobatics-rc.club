@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Extreme Flight",
+    "website": "https://www.extreme-flight.com",
+    "country": "USA",
+    "specialty": "High-performance F3A aircraft",
+    "categories": ["airframe"]
+  },
+  {
+    "name": "Sebart",
+    "website": "https://www.sebart.com",
+    "country": "Italy",
+    "specialty": "Competition F3A models",
+    "categories": ["airframe"]
+  },
+  {
+    "name": "BJ Craft",
+    "website": "https://www.bjcraft.com",
+    "country": "USA",
+    "specialty": "2m F3A pattern aircraft",
+    "categories": ["airframe"]
+  },
+  {
+    "name": "Futaba",
+    "website": "https://www.futabarc.com",
+    "country": "Japan",
+    "specialty": "Radio systems and servos",
+    "categories": ["receiver", "transmitter", "servo"]
+  },
+  {
+    "name": "Spektrum",
+    "website": "https://www.spektrumrc.com",
+    "country": "USA",
+    "specialty": "Radio systems and electronics",
+    "categories": ["receiver", "transmitter", "servo"]
+  },
+  {
+    "name": "Castle Creations",
+    "website": "https://www.castlecreations.com",
+    "country": "USA",
+    "specialty": "ESCs and motors",
+    "categories": ["motor", "esc"]
+  },
+  {
+    "name": "APC",
+    "website": "https://www.apcprop.com",
+    "country": "USA",
+    "specialty": "Propellers",
+    "categories": ["propeller"]
+  },
+  {
+    "name": "Savox",
+    "website": "https://www.savoxusa.com",
+    "country": "South Korea",
+    "specialty": "High-torque servos",
+    "categories": ["servo"]
+  }
+]

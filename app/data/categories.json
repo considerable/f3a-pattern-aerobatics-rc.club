@@ -1,0 +1,52 @@
+[
+  {
+    "name": "airframe",
+    "description": "2m F3A pattern aircraft kits and ARF",
+    "required_for_f3a": true
+  },
+  {
+    "name": "motor",
+    "description": "Electric motors for F3A aircraft",
+    "required_for_f3a": true
+  },
+  {
+    "name": "esc",
+    "description": "Electronic Speed Controllers",
+    "required_for_f3a": true
+  },
+  {
+    "name": "battery",
+    "description": "LiPo batteries for F3A power systems",
+    "required_for_f3a": true
+  },
+  {
+    "name": "propeller",
+    "description": "Props optimized for F3A performance",
+    "required_for_f3a": true
+  },
+  {
+    "name": "servo",
+    "description": "High-precision servos for control surfaces",
+    "required_for_f3a": true
+  },
+  {
+    "name": "receiver",
+    "description": "Radio receivers",
+    "required_for_f3a": true
+  },
+  {
+    "name": "transmitter",
+    "description": "Radio transmitters",
+    "required_for_f3a": true
+  },
+  {
+    "name": "gyro",
+    "description": "Flight stabilization systems",
+    "required_for_f3a": false
+  },
+  {
+    "name": "spinner",
+    "description": "Propeller spinners",
+    "required_for_f3a": false
+  }
+]

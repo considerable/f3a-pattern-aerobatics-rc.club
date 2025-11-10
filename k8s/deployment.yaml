@@ -1,0 +1,55 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: f3a-app
+  namespace: f3a-microservice
+  labels:
+    app: f3a-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: f3a-app
+  template:
+    metadata:
+      labels:
+        app: f3a-app
+    spec:
+      containers:
+      - name: f3a-app
+        image: ghcr.io/considerable/f3a-microservice:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 3000
+        env:
+        - name: NODE_ENV
+          value: "production"
+        - name: PORT
+          value: "3000"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 3000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 3000
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: sqlite-storage
+          mountPath: /app/database
+      imagePullSecrets:
+      - name: ghcr-secret
+      volumes:
+      - name: sqlite-storage
+        emptyDir: {}

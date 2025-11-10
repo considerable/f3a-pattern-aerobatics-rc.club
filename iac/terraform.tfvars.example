@@ -1,0 +1,5 @@
+# F3A Microservice Configuration
+aws_region        = "us-west-2"
+instance_type     = "t3.small"
+key_name          = "your-ssh-key-name"  # Optional: for SSH access
+create_dns_record = false                # Set to true to create api.f3a-pattern-aerobatics-rc.club
