@@ -73,7 +73,11 @@ initializeDatabase();
 // Middleware
 app.use(helmet());
 app.use(cors({
-  origin: ['https://f3a-pattern-aerobatics-rc.club', 'http://localhost:3000'],
+  origin: [
+    'https://f3a-pattern-aerobatics-rc.club',
+    'https://considerable.github.io',
+    'http://localhost:3000'
+  ],
   credentials: true
 }));
 app.use(compression());
